@@ -1,0 +1,22 @@
+form{
+    width:400px;
+    height:150px;
+    margin-left:240px;
+    margin-top:50px;
+}
+form input{
+    width:300px;
+    height:25px;
+}
+form button{
+    width: 70px;
+    height:29px;
+    margin-left:10px;
+    border:none;
+    background-color:#48494B;
+    color: #ffeedb;
+    cursor: pointer;
+}
+form button:hover{
+    background-color: darkgray;
+}
